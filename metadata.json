@@ -1,0 +1,6 @@
+{
+  "name": "The Box Club",
+  "description": "Suscripción personalizada de café de especialidad y literatura contemporánea",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
